@@ -8,16 +8,19 @@ import './App.css';
 
 // Dad jokes array
 const dadJokes = [
-  "Why don't scientists trust atoms? Because they make up everything!",
+  "I Drank a glass of water in the morning. Me - 1, African Kids - 0",
+  "What does a Black man's dad have in common with Nemo? They both can't be found.",
   "What do you call a fake noodle? An impasta!",
   "Why did the scarecrow win an award? Because he was outstanding in his field!",
   "I'm reading a book about anti-gravity. It's impossible to put down!",
-  "Did you hear about the mathematician who's afraid of negative numbers? He'll stop at nothing to avoid them!",
   "Why don't eggs tell jokes? They'd crack each other up!",
   "I told my wife she was drawing her eyebrows too high. She looked surprised.",
-  "What's the best thing about Switzerland? I don't know, but the flag is a big plus!",
-  "How do you organize a space party? You planet!",
-  "Why did the bicycle fall over? Because it was two-tired!"
+  "Why did the bicycle fall over? Because it was two-tired!",
+  "Why did the lion go to therapy? He found out his wife was a cheetah",
+  "What do you call two monkeys that share an Amazon account? Prime mates",
+  "Today, I asked my phone 'Siri, why am I still single?' and it activated the front camera",
+  "When does a joke become a dad joke? When it leaves you and never comes back.",
+  "Do you know the phrase 'One man's trash is another man's treasure'? It's a wonderful saying but a horrible way to find out that you were adopted.",
 ];
 
 // Photo frames data
