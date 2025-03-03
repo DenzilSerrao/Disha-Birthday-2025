@@ -362,6 +362,20 @@ function App() {
         backgroundImage: "url('https://images.unsplash.com/photo-1527481138388-31827a7c94d5?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60')",
         opacity: 0.2
       }}></div>
+
+            {/* Left banner */}
+            <div className="fixed top-0 left-0 w-32 h-full bg-cover" style={{ 
+        backgroundImage: "url('/1_banner.jpg')",
+        backgroundPosition: '70% 30%',
+        opacity: 0.7
+      }}></div>
+
+      {/* Right banner */}
+      <div className="fixed top-0 right-0 w-32 h-full bg-cover" style={{ 
+        backgroundImage: "url('/1_banner.jpg')",
+        backgroundPosition: '70% 30%',
+        opacity: 0.7
+      }}></div>
     </div>
   );
 }
